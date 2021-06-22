@@ -1,0 +1,13 @@
+To Run the file
+
+
+for fast moving increase the value of del_t in rrr_hexagon_subham.py file in scripts
+
+Gazebo Instructions
+
+First 	unzip folder "rangeaero_assignment" in src forlder of your catkin workspace
+run  	catkin_make
+run 	roslaunch rangeaero_assignment rrr_subham_xy.launch
+
+
+After running the command wait for 10 seconds
